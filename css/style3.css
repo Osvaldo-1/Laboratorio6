@@ -33,7 +33,14 @@
     background-color: #00994d; 
     color: #fff; 
 }
-.imagen1{
+
+
+
+.fc-img{
     width: 500px;
-    height: 300px;
+    height: 600px;
+}
+
+.mb-4 {
+    margin-bottom: 20px; 
 }

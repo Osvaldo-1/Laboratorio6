@@ -33,7 +33,13 @@
     background-color: #00994d; 
     color: #fff; 
 }
-.imagen1{
+
+.imagen{
     width: 500px;
-    height: 300px;
+    height: 570px;
+}
+
+.carousel-item {
+    width: 400; 
+    height: 500; 
 }
